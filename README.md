@@ -1,1 +1,1 @@
-# Discord_Score_Search_Bot
+# LOL Score Search Discord Bot
